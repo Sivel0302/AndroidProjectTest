@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AndroidProjectTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{15040828-5211-4093-9EA3-6672D6D46622}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AndroidProjectTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AndroidProjectTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E7E403FC-CC9B-4D12-A631-E9BD6EA3DB3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AndroidProjectTest">
+      <UniqueIdentifier>{1A423941-006F-45AB-BD68-4C2249FFF882}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AndroidProjectTest\AndroidProjectTest.Build.cs">
+      <Filter>Source\AndroidProjectTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AndroidProjectTest\AndroidProjectTest.cpp">
+      <Filter>Source\AndroidProjectTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AndroidProjectTest\AndroidProjectTest.h">
+      <Filter>Source\AndroidProjectTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AndroidProjectTest\AndroidProjectTestCharacter.cpp">
+      <Filter>Source\AndroidProjectTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AndroidProjectTest\AndroidProjectTestCharacter.h">
+      <Filter>Source\AndroidProjectTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AndroidProjectTest\AndroidProjectTestGameMode.cpp">
+      <Filter>Source\AndroidProjectTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AndroidProjectTest\AndroidProjectTestGameMode.h">
+      <Filter>Source\AndroidProjectTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
