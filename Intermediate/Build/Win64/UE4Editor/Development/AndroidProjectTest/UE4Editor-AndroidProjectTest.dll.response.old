@@ -34,6 +34,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\Users\nikol\Documents\Unreal Projects\AndroidProjectTest\Intermediate\Build\Win64\AndroidProjectTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\nikol\Documents\Unreal Projects\AndroidProjectTest\Intermediate\Build\Win64\UE4Editor\Development\AndroidProjectTest\pugixml.cpp.obj"
 "C:\Users\nikol\Documents\Unreal Projects\AndroidProjectTest\Intermediate\Build\Win64\UE4Editor\Development\AndroidProjectTest\AndroidProjectTest.cpp.obj"
 "C:\Users\nikol\Documents\Unreal Projects\AndroidProjectTest\Intermediate\Build\Win64\UE4Editor\Development\AndroidProjectTest\AndroidProjectTestCharacter.cpp.obj"
 "C:\Users\nikol\Documents\Unreal Projects\AndroidProjectTest\Intermediate\Build\Win64\UE4Editor\Development\AndroidProjectTest\AndroidProjectTestGameMode.cpp.obj"

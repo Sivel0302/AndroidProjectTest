@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeAndroidProjectTest_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xBB07E3F9,
-				0x04A3370D,
+				0xE75DAD19,
+				0x97AEF25A,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
