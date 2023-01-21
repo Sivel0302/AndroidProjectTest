@@ -1,2 +1,0 @@
-C:\Users\nikol\Documents\Unreal Projects\AndroidProjectTest\Intermediate\Build\Win64\UE4Editor\Development\AndroidProjectTest\Definitions.AndroidProjectTest.h
-C:\Users\nikol\Documents\Unreal Projects\AndroidProjectTest\Source\AndroidProjectTest\AndroidProjectTest.h
